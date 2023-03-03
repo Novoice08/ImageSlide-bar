@@ -7,7 +7,7 @@ export default function Home({ imgs }) {
   return (
     <>
       <Head>
-        <title>Image Slider</title>
+        <title>Image Slider React Carousel</title>
         <meta name="description" content="Image slider" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/next.gif" />
